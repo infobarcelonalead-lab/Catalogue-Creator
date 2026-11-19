@@ -1,0 +1,8 @@
+{
+  "name": "SportTanger Studio",
+  "description": "Creador profesional de catálogos de moda en PDF y web interactiva multilingüe con analíticas y pedidos directos por WhatsApp para sporttanger.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
